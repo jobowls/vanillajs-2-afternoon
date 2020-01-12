@@ -31,8 +31,8 @@ Begin by examining the exisiting code. You'll notice that our piano is a Scalabl
 
 ```js
 // Here we're accessing the audio element with a data-key property of 65
-
 const element = document.querySelector('audio[data-key="65"]');
+
 ```
 </details>
 
